@@ -876,7 +876,6 @@
 
 
 
-
 @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 
@@ -4146,7 +4145,6 @@ swiper-slide {
   color: white;
   font-size: 15px;
 }
-
 
 
 var loader = document.getElementById('preloader')
